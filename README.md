@@ -1,0 +1,1 @@
+### Repro of strange coverage issue with node-tap
